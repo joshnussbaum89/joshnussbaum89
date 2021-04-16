@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">Full Stack Web Developer currently residing in Wisconsin, USA</h3>
 
-- 👨‍💻 My portfolio is available at [https://joshnussbaum.io](https://joshnussbaum.io)
+- 🌱 **My goals** are to develop creative solutions and broaden our available tools for human expression. 
 
-- 📫 How to reach me **joshnussbaum89@gmail.com**
+- 👨‍💻 **My portfolio** is available at [https://joshnussbaum.io](https://joshnussbaum.io)
 
-- ⚡ Fun fact **I'm a lifelong guitarist and music lover.**
+- 📫 **How to reach me** joshnussbaum89@gmail.com
+
+- ⚡ **Fun fact** I'm a lifelong guitarist and music lover.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
