@@ -14,7 +14,7 @@
 <a href="https://twitter.com/joshnussbaum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joshnussbaum" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/josh-nussbaum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="josh-nussbaum" height="30" width="40" /></a>
 <a href="https://instagram.com/josh.nussbaum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="josh.nussbaum" height="30" width="40" /></a>
-<a href="https://medium.com/@joshnussbaum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@joshnussbaum" height="30" width="40" /></a>
+<a href="https://josh-nussbaum.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@joshnussbaum" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
