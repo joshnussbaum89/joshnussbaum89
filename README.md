@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">Full Stack Web Developer currently residing in Wisconsin, USA</h3>
+<h3 align="center">Front End Web Developer currently residing in Wisconsin, USA</h3>
 
 - 🌱 **My goals** are to develop creative solutions and broaden our available tools for human expression. 
 
